@@ -1,4 +1,4 @@
-#Challenge 2 – Evaluate Arithmetic Expressions
+Evaluate Arithmetic Expressions
 
 with open('file.txt', 'r') as input_file, open('output.txt', 'w') as output_file:
     for line in input_file:
